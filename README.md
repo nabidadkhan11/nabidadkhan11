@@ -115,7 +115,7 @@ fun_fact: "I debug faster with a cup of chai ☕"
 <br/>
 <img src="https://progress-bar.xyz/75/?title=Databases&width=300&color=FF7A00&suffix=%25" />
 
-*(Self-assessed — update the numbers anytime to match your actual level)*
+
 
 </div>
 
