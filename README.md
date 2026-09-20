@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF7A00,100:000000&height=220&section=header&text=Nabidad%20Khan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20App%20%7C%20Python%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF7A00,100:000000&height=230&section=header&text=Nabidad%20Khan&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20App%20%7C%20Python%20Developer&descAlignY=55&descSize=18&fontFamily=Poppins" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF7A00&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+MERN+Stack;React+%26+Flutter+App+Developer;Python+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Clean%2C+Working+Code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=FF7A00&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+MERN+Stack;React+%26+Flutter+App+Developer;Python+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Clean%2C+Working+Code" alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://linkedin.com/in/nabidad-khan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF7A00&labelColor=000000" /></a>
 <a href="mailto:nabidadkhan80@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF7A00&labelColor=000000" /></a>
 <a href="https://github.com/nabidadkhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF7A00&labelColor=000000" /></a>
+<a href="https://wa.me/9230316832754" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=FF7A00&labelColor=000000" /></a>
 <img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-000000?style=for-the-badge&logo=googlemaps&logoColor=FF7A00&labelColor=000000" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=nabidadkhan&style=for-the-badge&color=FF7A00&labelColor=000000&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/nabidadkhan?style=for-the-badge&color=FF7A00&labelColor=000000&logo=github&logoColor=white&label=FOLLOWERS" />
 
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A00,100:000000&height=3&width=100%25"/>
 
 ## 🧑‍💻 About Me
 
@@ -41,21 +39,25 @@ fun_fact: "I debug faster with a cup of chai ☕"
 - ⚡ Ask me about: **React · React Native · Flutter · Node.js · Python · MongoDB**
 - 📫 Reach me at **nabidadkhan80@gmail.com**
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A00,100:000000&height=3&width=100%25"/>
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Languages
+**Languages**
+<br/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FF7A00" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FF7A00" />
 
-### Frontend & Mobile
+<br/><br/>
+
+**Frontend & Mobile**
+<br/>
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FF7A00" />
@@ -64,14 +66,20 @@ fun_fact: "I debug faster with a cup of chai ☕"
 <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FF7A00" />
 
-### Backend & Database
+<br/><br/>
+
+**Backend & Database**
+<br/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FF7A00" />
 
-### Tools & Platforms
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FF7A00" />
@@ -81,7 +89,37 @@ fun_fact: "I debug faster with a cup of chai ☕"
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A00,100:000000&height=3&width=100%25"/>
+
+## 📈 Skill Proficiency
+
+<div align="center">
+
+**JavaScript / React**
 <br/>
+<img src="https://progress-bar.xyz/85/?title=React&width=300&color=FF7A00&suffix=%25" />
+
+**Node.js / Express**
+<br/>
+<img src="https://progress-bar.xyz/75/?title=Node.js&width=300&color=FF7A00&suffix=%25" />
+
+**Python**
+<br/>
+<img src="https://progress-bar.xyz/70/?title=Python&width=300&color=FF7A00&suffix=%25" />
+
+**Flutter / Dart**
+<br/>
+<img src="https://progress-bar.xyz/65/?title=Flutter&width=300&color=FF7A00&suffix=%25" />
+
+**MongoDB / MySQL**
+<br/>
+<img src="https://progress-bar.xyz/75/?title=Databases&width=300&color=FF7A00&suffix=%25" />
+
+*(Self-assessed — update the numbers anytime to match your actual level)*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A00,100:000000&height=3&width=100%25"/>
 
 ## 📊 GitHub Analytics
 
@@ -90,15 +128,27 @@ fun_fact: "I debug faster with a cup of chai ☕"
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nabidadkhan&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF&border_color=FF7A00" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabidadkhan&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF7A00&text_color=FFFFFF&border_color=FF7A00" />
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabidadkhan&hide_border=true&background=0D0D0D&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabidadkhan&bg_color=0D0D0D&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
+<br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=nabidadkhan&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=8" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nabidadkhan&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF7A00&text_color=FFFFFF&border_color=FF7A00" />
 
 </div>
 
-<br/>
+*(Wakatime card ke liye WakaTime account connect karna hota hai — connect nahi kiya to ye card khali ya hidden reh sakta hai)*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A00,100:000000&height=3&width=100%25"/>
 
 ## 🎓 Education
 
@@ -109,7 +159,7 @@ fun_fact: "I debug faster with a cup of chai ☕"
 <tr><td>📗 Matric — Science</td><td>2021 – 2023</td></tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A00,100:000000&height=3&width=100%25"/>
 
 ## 🏆 Featured Projects
 
@@ -138,7 +188,7 @@ Database-driven management system with dynamic functionality, organized records,
 
 > 🚧 More projects — including React and Flutter apps — coming soon. Check my [repositories](https://github.com/nabidadkhan?tab=repositories) for the latest work.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A00,100:000000&height=3&width=100%25"/>
 
 ## 📜 Certifications
 
@@ -148,7 +198,7 @@ Database-driven management system with dynamic functionality, organized records,
 | 🏅 Certificate of Appreciation | Aptech Learning | 2022 |
 | 🏅 Certificate of Performance | Aptech Learning | 2023 |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A00,100:000000&height=3&width=100%25"/>
 
 ## 🌐 Languages I Speak
 
