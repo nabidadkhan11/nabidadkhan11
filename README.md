@@ -121,35 +121,6 @@ fun_fact: "I debug faster with a cup of chai ☕"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A00,100:000000&height=3&width=100%25"/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nabidadkhan&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF&border_color=FF7A00" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabidadkhan&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF7A00&text_color=FFFFFF&border_color=FF7A00" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabidadkhan&hide_border=true&background=0D0D0D&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nabidadkhan&bg_color=0D0D0D&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nabidadkhan&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=8" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nabidadkhan&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF7A00&text_color=FFFFFF&border_color=FF7A00" />
-
-</div>
-
-*(Wakatime card ke liye WakaTime account connect karna hota hai — connect nahi kiya to ye card khali ya hidden reh sakta hai)*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7A00,100:000000&height=3&width=100%25"/>
-
 ## 🎓 Education
 
 <table>
