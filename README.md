@@ -247,7 +247,7 @@ A premium dealership site that shows off a showroom's stock and makes it easy fo
 **Have a project, an internship, or just an idea? I reply fast.**
 
 <a href="mailto:nabidadkhan80@gmail.com"><img src="https://img.shields.io/badge/Email-nabidadkhan80%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://wa.me/9230316832754"><img src="https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://wa.me/923232623551"><img src="https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://linkedin.com/in/nabidad-khan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://nabidadkhan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
